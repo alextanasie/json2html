@@ -81,10 +81,6 @@ export const createHTML = (data: string): string | React.JSX.Element | React.JSX
 
     html += '</div>';
 
-    // const filePath = path.join(__dirname, 'result.html');
-
-    // fs.writeFileSync(filePath, html);
-
     const generatedJsx = parse(html);
 
     return generatedJsx;
@@ -92,7 +88,6 @@ export const createHTML = (data: string): string | React.JSX.Element | React.JSX
 
 const generateInlineStylesForText = (props: JsonTextProperties): string => {
     const textAlignment = props.alignment === 'center' ? 'center' : 'left';
-    // console.log(props, '-------');
 
     return `text-align: ${textAlignment};`
 };
@@ -131,7 +126,7 @@ const constructSize = (props: JsonImageProperties): string => {
     // scale(${props.scaleX}, ${props.scaleY}) translate(${props.contentOffsetX}px, ${props.contentOffsetY}px
 };
 
-function generateTextNode(node: JsonTextSlateConfigNode): string {
+const generateTextNode = (node: JsonTextSlateConfigNode): string => {
     if (node.type === 'paragraph') {
         const child = node.children[0] as JsonTextSlateConfigChildren;
         const styles = constructStylesForParagraphChild(child);
