@@ -1,0 +1,668 @@
+{
+    "hash": "j2308jq",
+    "userId": 76,
+    "banner": {
+        "properties": {
+            "name": "Untitled design",
+            "width": 336,
+            "height": 280,
+            "loop": false,
+            "loopCount": 1,
+            "imageQuality": 90,
+            "bannerUrl": "",
+            "bannerSize": "336x280",
+            "urlTarget": "_blank",
+            "useHandCursor": true,
+            "useBannerEntireArea": true,
+            "customSize": true,
+            "presetSize": false,
+            "backgroundColor": {
+                "borderColor": "#00bff3",
+                "scolor": "#00bff3",
+                "type": "solid",
+                "gradColors": null,
+                "rgradPos": null,
+                "backgroundRotation": null,
+                "contentScale": 100,
+                "scaleMode": "tile",
+                "useBorder": true,
+                "horizontalAlign": "left",
+                "verticalAlign": "middle",
+                "contentOffsetX": 22,
+                "contentOffsetY": 0,
+                "originalWidth": 0,
+                "originalHeight": 0,
+                "url": "c76c76b10dae09d6597340af70972729",
+                "hqUrl": null,
+                "source": null,
+                "hash": null,
+                "licensing": false
+            },
+            "lastId": 143,
+            "version": 2,
+            "useAsClickTag": false,
+            "convertCustomFonts": true,
+            "showGuidelines": false,
+            "retina": false,
+            "retinaOnly": false,
+            "fallbackImage": false,
+            "measureUnit": "px",
+            "sizeVariation": null,
+            "dateLastUpdate": "2021-04-19T07:20:17.250Z",
+            "fallbackImagePosition": 3500
+        },
+        "elements": [
+            {
+                "properties": {
+                    "backgroundColor": {
+                        "borderColor": "#3d3d3d",
+                        "scolor": "rgba(255,255,255,1)",
+                        "type": "none",
+                        "gradColors": null,
+                        "rgradPos": null,
+                        "backgroundRotation": null,
+                        "contentScale": 100,
+                        "scaleMode": "crop",
+                        "useBorder": false,
+                        "horizontalAlign": "center",
+                        "verticalAlign": "middle",
+                        "contentOffsetX": 50,
+                        "contentOffsetY": 50,
+                        "originalWidth": 0,
+                        "originalHeight": 0,
+                        "url": null,
+                        "hqUrl": null,
+                        "source": null,
+                        "hash": null,
+                        "licensing": false
+                    },
+                    "duration": 7,
+                    "id": 1,
+                    "bannersetElementId": 1,
+                    "stopSlide": false,
+                    "transition": {
+                        "type": "none",
+                        "crosstype": "hide",
+                        "direction": "l2r",
+                        "duration": 1,
+                        "wordsDuration": 0.5,
+                        "wordsAppearOrder": "l2r",
+                        "delay": 0,
+                        "tween": "Strong",
+                        "ease": "easeOut",
+                        "slidePosX": 50,
+                        "slidePosY": 0,
+                        "alphaOffset": 0,
+                        "slideOffset": 100,
+                        "blurAmount": 5,
+                        "zoom": 10,
+                        "preset": "none",
+                        "advancedProperties": {
+                            "move": [],
+                            "rotate": [],
+                            "scale": [],
+                            "opacity": [],
+                            "blur": []
+                        },
+                        "color": "#FFFFFF",
+                        "shadowLength": 5
+                    },
+                    "guidelines": {
+                        "v": [],
+                        "h": []
+                    }
+                },
+                "type": "slide",
+                "elements": [
+                    {
+                        "type": "layer",
+                        "layerType": "image",
+                        "properties": {
+                            "id": 143,
+                            "bannersetElementId": null,
+                            "elementCategory": null,
+                            "layerName": "Image 3",
+                            "dropShadow": {
+                                "useShadow": true,
+                                "hShadow": 5,
+                                "vShadow": 4,
+                                "blur": 12,
+                                "spread": 0,
+                                "color": "rgba(0,0,0,0.27)"
+                            },
+                            "blur": {
+                                "useBlur": false,
+                                "pixels": 0
+                            },
+                            "opacity": 100,
+                            "rotation": 344,
+                            "flip": "none",
+                            "x": 187.75,
+                            "y": 98.5,
+                            "width": 98.90000000000003,
+                            "height": 90.6932391675154,
+                            "actions": [],
+                            "locked": false,
+                            "lockedProperties": [],
+                            "visible": true,
+                            "group": null,
+                            "originalName": "Underwater Young Boy Fun in the Swimming Pool with Goggles. Summer Vacation Fun.\t",
+                            "openAdvancedProperties": false,
+                            "url": "4dwjo1",
+                            "scaleMode": "crop",
+                            "horizontalAlign": "center",
+                            "verticalAlign": "middle",
+                            "adjustColor": {
+                                "useAdjustColor": false,
+                                "brightness": 0,
+                                "contrast": 0,
+                                "saturate": 0,
+                                "hue": 0
+                            },
+                            "contentScale": 100,
+                            "contentOffsetX": 50,
+                            "contentOffsetY": 50,
+                            "originalWidth": 1000,
+                            "originalHeight": 667,
+                            "cropData": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 151.52284820031304,
+                                "height": 101.06573974960881
+                            },
+                            "source": "shutterstock",
+                            "hash": "2224536905",
+                            "licensing": false,
+                            "blendMode": "normal"
+                        }
+                    },
+                    {
+                        "type": "layer",
+                        "layerType": "image",
+                        "properties": {
+                            "id": 141,
+                            "bannersetElementId": null,
+                            "elementCategory": null,
+                            "layerName": "Image 1",
+                            "dropShadow": {
+                                "useShadow": true,
+                                "hShadow": -2,
+                                "vShadow": -4,
+                                "blur": 12,
+                                "spread": 0,
+                                "color": "rgba(0,0,0,0.27)"
+                            },
+                            "blur": {
+                                "useBlur": false,
+                                "pixels": 0
+                            },
+                            "opacity": 100,
+                            "rotation": 329,
+                            "flip": "none",
+                            "x": 35,
+                            "y": 112,
+                            "width": 91.21546961325969,
+                            "height": 90.33906478956837,
+                            "actions": [],
+                            "locked": false,
+                            "lockedProperties": [],
+                            "visible": true,
+                            "group": null,
+                            "originalName": "Luxury beach vacation elegant tourist woman walking relaxing in red beachwear and sunhat on white sand Caribbean beach. Lady tourist on holiday vacation resort",
+                            "openAdvancedProperties": false,
+                            "url": "4638rw",
+                            "scaleMode": "crop",
+                            "horizontalAlign": "center",
+                            "verticalAlign": "middle",
+                            "adjustColor": {
+                                "useAdjustColor": false,
+                                "brightness": 0,
+                                "contrast": 0,
+                                "saturate": 0,
+                                "hue": 0
+                            },
+                            "contentScale": 100,
+                            "contentOffsetX": 50,
+                            "contentOffsetY": 50,
+                            "originalWidth": 1000,
+                            "originalHeight": 667,
+                            "cropData": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 150.93112260975403,
+                                "height": 100.67105878070595
+                            },
+                            "source": "shutterstock",
+                            "hash": "2147290757",
+                            "licensing": false,
+                            "blendMode": "normal"
+                        }
+                    },
+                    {
+                        "type": "layer",
+                        "layerType": "image",
+                        "properties": {
+                            "id": 142,
+                            "bannersetElementId": null,
+                            "elementCategory": null,
+                            "layerName": "Image 2",
+                            "dropShadow": {
+                                "useShadow": true,
+                                "hShadow": 0,
+                                "vShadow": 5,
+                                "blur": 12,
+                                "spread": 0,
+                                "color": "rgba(0,0,0,0.27)"
+                            },
+                            "blur": {
+                                "useBlur": false,
+                                "pixels": 0
+                            },
+                            "opacity": 100,
+                            "rotation": 0,
+                            "flip": "none",
+                            "x": 118,
+                            "y": 128,
+                            "width": 99.71522275116348,
+                            "height": 94.75,
+                            "buildIn": {
+                                "type": "none",
+                                "crosstype": "hide",
+                                "direction": "l2r",
+                                "duration": 1,
+                                "wordsDuration": 0.5,
+                                "wordsAppearOrder": "l2r",
+                                "delay": 0,
+                                "tween": "Strong",
+                                "ease": "easeOut",
+                                "slidePosX": 50,
+                                "slidePosY": 0,
+                                "alphaOffset": 0,
+                                "slideOffset": 100,
+                                "blurAmount": 5,
+                                "zoom": 10,
+                                "preset": "none",
+                                "advancedProperties": {
+                                    "move": [],
+                                    "rotate": [],
+                                    "scale": [],
+                                    "opacity": [],
+                                    "blur": []
+                                },
+                                "color": "#FFFFFF",
+                                "shadowLength": 5
+                            },
+                            "buildMid": {
+                                "type": "none",
+                                "direction": "top",
+                                "variation": null,
+                                "duration": 1.5,
+                                "delay": 0,
+                                "motionTime": 0.9,
+                                "ease": "linear",
+                                "tween": "",
+                                "preset": "none",
+                                "startEnd": "timeline",
+                                "advancedProperties": {
+                                    "move": [],
+                                    "rotate": [],
+                                    "scale": [],
+                                    "opacity": [],
+                                    "blur": []
+                                },
+                                "gradient": {
+                                    "gradColors": [
+                                        {
+                                            "c": "#D2D6E5",
+                                            "p": "0"
+                                        },
+                                        {
+                                            "c": "#3E4255",
+                                            "p": "100"
+                                        }
+                                    ]
+                                }
+                            },
+                            "buildOut": {
+                                "type": "none",
+                                "crosstype": "hide",
+                                "direction": "l2r",
+                                "duration": 1,
+                                "wordsDuration": 0.5,
+                                "wordsAppearOrder": "l2r",
+                                "delay": 0,
+                                "tween": "Strong",
+                                "ease": "easeOut",
+                                "slidePosX": 50,
+                                "slidePosY": 0,
+                                "alphaOffset": 0,
+                                "slideOffset": 100,
+                                "blurAmount": 5,
+                                "zoom": 10,
+                                "preset": "none",
+                                "advancedProperties": {
+                                    "move": [],
+                                    "rotate": [],
+                                    "scale": [],
+                                    "opacity": [],
+                                    "blur": []
+                                },
+                                "color": "#FFFFFF",
+                                "shadowLength": 5
+                            },
+                            "actions": [],
+                            "locked": false,
+                            "lockedProperties": [],
+                            "visible": true,
+                            "group": null,
+                            "originalName": "Family vacation travel RV, holiday trip in motorhome, Caravan car Vacation.",
+                            "openAdvancedProperties": false,
+                            "url": "5rj7jn",
+                            "scaleMode": "crop",
+                            "horizontalAlign": "center",
+                            "verticalAlign": "middle",
+                            "adjustColor": {
+                                "useAdjustColor": false,
+                                "brightness": 0,
+                                "contrast": 0,
+                                "saturate": 0,
+                                "hue": 0
+                            },
+                            "contentScale": 100,
+                            "contentOffsetX": 50,
+                            "contentOffsetY": 50,
+                            "originalWidth": 1000,
+                            "originalHeight": 667,
+                            "cropData": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 302.40000000000003,
+                                "height": 201.70080000000004
+                            },
+                            "source": "shutterstock",
+                            "hash": "2144411227",
+                            "licensing": false,
+                            "blendMode": "normal"
+                        }
+                    },
+                    {
+                        "type": "layer",
+                        "layerType": "button",
+                        "properties": {
+                            "id": 139,
+                            "bannersetElementId": 2,
+                            "elementCategory": null,
+                            "layerName": "Button",
+                            "dropShadow": {
+                                "useShadow": false,
+                                "hShadow": 0,
+                                "vShadow": 10,
+                                "blur": 20,
+                                "spread": 0,
+                                "color": "rgba(0, 0, 0, 0.21)"
+                            },
+                            "blur": {
+                                "useBlur": false,
+                                "pixels": 2
+                            },
+                            "opacity": 100,
+                            "rotation": 0,
+                            "flip": "none",
+                            "x": 0,
+                            "y": 242,
+                            "width": 336,
+                            "height": 38,
+                            "buildIn": {
+                                "type": "alpha",
+                                "crosstype": "hide",
+                                "direction": "l2r",
+                                "duration": 1,
+                                "wordsDuration": 0.5,
+                                "wordsAppearOrder": "l2r",
+                                "delay": 2.4,
+                                "tween": "Quad",
+                                "ease": "easeOut",
+                                "slidePosX": 50,
+                                "slidePosY": 0,
+                                "alphaOffset": 0,
+                                "slideOffset": 100,
+                                "blurAmount": 0,
+                                "zoom": 10,
+                                "preset": "fade",
+                                "advancedProperties": {
+                                    "move": [],
+                                    "rotate": [],
+                                    "scale": [],
+                                    "opacity": [],
+                                    "blur": []
+                                },
+                                "color": "#FFFFFF",
+                                "shadowLength": 5
+                            },
+                            "buildMid": {
+                                "type": "none",
+                                "direction": "top",
+                                "variation": null,
+                                "duration": 1.5,
+                                "delay": 0,
+                                "motionTime": 0.9,
+                                "ease": "linear",
+                                "tween": "",
+                                "preset": "none",
+                                "startEnd": "timeline",
+                                "advancedProperties": {
+                                    "move": [],
+                                    "rotate": [],
+                                    "scale": [],
+                                    "opacity": [],
+                                    "blur": []
+                                },
+                                "gradient": {
+                                    "gradColors": [
+                                        {
+                                            "c": "#D2D6E5",
+                                            "p": "0"
+                                        },
+                                        {
+                                            "c": "#3E4255",
+                                            "p": "100"
+                                        }
+                                    ]
+                                }
+                            },
+                            "buildOut": {
+                                "type": "none",
+                                "crosstype": "hide",
+                                "direction": "l2r",
+                                "duration": 1,
+                                "wordsDuration": 0.5,
+                                "wordsAppearOrder": "l2r",
+                                "delay": 0,
+                                "tween": "Strong",
+                                "ease": "easeOut",
+                                "slidePosX": 50,
+                                "slidePosY": 0,
+                                "alphaOffset": 0,
+                                "slideOffset": 100,
+                                "blurAmount": 5,
+                                "zoom": 10,
+                                "preset": "none",
+                                "advancedProperties": {
+                                    "move": [],
+                                    "rotate": [],
+                                    "scale": [],
+                                    "opacity": [],
+                                    "blur": []
+                                },
+                                "color": "#FFFFFF",
+                                "shadowLength": 5
+                            },
+                            "actions": [],
+                            "locked": false,
+                            "lockedProperties": [],
+                            "visible": true,
+                            "group": null,
+                            "mediaFolderId": null,
+                            "originalName": null,
+                            "openAdvancedProperties": false,
+                            "buttonLabel": "See Deals",
+                            "html": "See Deals",
+                            "backgroundColor": {
+                                "borderColor": "#3d3d3d",
+                                "scolor": "#ffffff",
+                                "type": "solid",
+                                "gradColors": null,
+                                "rgradPos": null,
+                                "backgroundRotation": null,
+                                "contentScale": 100,
+                                "scaleMode": "crop",
+                                "useBorder": false,
+                                "horizontalAlign": "center",
+                                "verticalAlign": "middle",
+                                "contentOffsetX": 50,
+                                "contentOffsetY": 50,
+                                "originalWidth": 0,
+                                "originalHeight": 0,
+                                "url": null,
+                                "hqUrl": null,
+                                "source": null,
+                                "hash": null,
+                                "licensing": false
+                            },
+                            "backgroundOverColor": "#3498DB",
+                            "labelShadow": {
+                                "useShadow": false,
+                                "hShadow": 0,
+                                "vShadow": 2,
+                                "blur": 10,
+                                "spread": 0,
+                                "color": "rgba(0, 0, 0, 0.2)"
+                            },
+                            "labelStyle": {
+                                "fontFamily": "Roboto",
+                                "fontDesign": "700",
+                                "fontStyle": "normal",
+                                "fontType": "google",
+                                "fontUrl": null,
+                                "fontFaceUrl": null,
+                                "fontWeight": 700,
+                                "fontSize": 16,
+                                "fontPrefix": null,
+                                "color": "#00bff3",
+                                "letterSpacing": 0,
+                                "dropShadow": null,
+                                "initialFontSize": 16,
+                                "textDirection": "ltr"
+                            },
+                            "labelOffsetX": 0,
+                            "labelOffsetY": 0,
+                            "border": {
+                                "color": "rgba(0, 0, 0, 1)",
+                                "weight": 0,
+                                "radius": 1
+                            },
+                            "hoverState": null
+                        }
+                    },
+                    {
+                        "type": "layer",
+                        "layerType": "text",
+                        "properties": {
+                            "id": 135,
+                            "bannersetElementId": 6,
+                            "elementCategory": null,
+                            "layerName": "Headline",
+                            "dropShadow": {
+                                "useShadow": false,
+                                "hShadow": 2,
+                                "vShadow": 2,
+                                "blur": 3,
+                                "spread": 0,
+                                "color": "rgba(0,0,0,0.5)"
+                            },
+                            "blur": {
+                                "useBlur": false,
+                                "pixels": 2
+                            },
+                            "opacity": 100,
+                            "rotation": 0,
+                            "flip": "none",
+                            "x": 11,
+                            "y": 20,
+                            "width": 268.74101362573134,
+                            "height": 70,
+                            "actions": [],
+                            "locked": false,
+                            "lockedProperties": [],
+                            "visible": true,
+                            "group": null,
+                            "mediaFolderId": null,
+                            "originalName": null,
+                            "openAdvancedProperties": false,
+                            "alignment": "center",
+                            "fontSize": 27,
+                            "lineHeight": 1.3,
+                            "letterSpacing": 0,
+                            "config": {
+                                "type": "slate",
+                                "nodes": [
+                                    {
+                                        "type": "paragraph",
+                                        "defaultFontSettings": {
+                                            "fontFamily": "Passion One",
+                                            "fontType": "google",
+                                            "fontStyle": "normal",
+                                            "fontPrefix": null,
+                                            "fontWeight": 400,
+                                            "fontUrl": null,
+                                            "fontFaceUrl": null
+                                        },
+                                        "children": [
+                                            {
+                                                "text": "PLAN YOUR VACATION AHEAD",
+                                                "color": "#fdfdfd",
+                                                "textScript": "none",
+                                                "textDecoration": "none",
+                                                "textTransform": "none",
+                                                "fontSettings": {
+                                                    "fontFamily": "Passion One",
+                                                    "fontType": "google",
+                                                    "fontStyle": "normal",
+                                                    "fontPrefix": null,
+                                                    "fontWeight": 400,
+                                                    "fontUrl": null,
+                                                    "fontFaceUrl": null
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "selection": null,
+                                "keepSelection": false
+                            },
+                            "textShadow": {
+                                "useShadow": false,
+                                "hShadow": 2,
+                                "vShadow": 2,
+                                "blur": 3,
+                                "spread": 0,
+                                "color": "rgba(0,0,0,0.5)"
+                            },
+                            "initialFontSize": 27,
+                            "textDirection": "ltr",
+                            "scale": 1.166134228703637,
+                            "blendMode": "normal",
+                            "outline": {
+                                "useOutline": false,
+                                "color": "",
+                                "weight": null
+                            },
+                            "verticalAlign": null
+                        }
+                    }
+                ]
+            }
+        ],
+        "resources": {}
+    }
+}
