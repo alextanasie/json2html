@@ -61,12 +61,16 @@ Time was the worst challenge. :<
 
 _WIP_
 
-1. Reuse the same functions for getting the styles for every single type of element, but currently the types don't allow it.
+1. Reuse some of the functions for getting the styles for every single type of element, but currently the types don't allow it. For instance, we could use the same function for setting font styles (family, size, weight etc), same function for setting background etc.
 
 1. Handle empty properties. For instance, if an expected property is missing from the json, we get this, with multiple semicolons: 
 ```
 width: 99.71522275116348px; height: 94.75px;;
 ```
+
+1. Rework the html generation logic so we can make use of recursive functions.
+
+1. Testing. Hopefully I can do that this weekend.
 
 <a name="assignment_issues"></a>   
 # Bugs I found (or questions that I have)
