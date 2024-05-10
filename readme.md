@@ -41,10 +41,20 @@ npm run start
 
 _WIP_
 
+For each type of node present in the JSON file, I made the following work:
+
+1. Text elements
+2. Image elements
+3. Button elements
+
+They all have most of the corresponding styles applied and follow a structure different from the one in the provided example. Each element lives in its own HTML element, instead of having multiple parents for different purposes (positioning, scaling, rotating etc).
+
 <a name="challenges"></a>   
 # Challenges
 
 _WIP_
+
+Time was the worst challenge. :<
 
 <a name="differently"></a>   
 # What I would do differently if I had more time
