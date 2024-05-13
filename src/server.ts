@@ -1,10 +1,7 @@
 import express from 'express';
-import fs from 'fs';
-import path from 'path';
-
 import React, { createElement } from 'react';
-import { createHTML } from './helpers/html.helpers';
 import { renderToString } from 'react-dom/server';
+
 import { Index } from './fe/Index';
 
 // note: combining import and require is not recommended, but having some issue with the ES6 fetch module

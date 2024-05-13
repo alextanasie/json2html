@@ -115,7 +115,7 @@ const cleanStyles = (styles: string): string => {
 }
 
 // where is useBannerEntireArea in types?
-export const createHTML = (data: string): string | React.JSX.Element | React.JSX.Element[] => {
+export const createHTML = (data: string): string => {
     const jsonData = JSON.parse(data);
 
     let html = generateParentComponent(jsonData.banner);
@@ -150,7 +150,11 @@ export const createHTML = (data: string): string | React.JSX.Element | React.JSX
 
     html += '</div>';
 
-    const generatedJsx = parse(html);
-
-    return generatedJsx;
+    return html;
 };
+
+export const getJsx = (data: string): string | React.JSX.Element | React.JSX.Element[] => {
+    const html = createHTML(data);
+
+    return parse(html);
+}
